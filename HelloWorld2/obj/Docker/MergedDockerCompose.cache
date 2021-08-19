@@ -1,7 +1,0 @@
-services:
-  helloworld2:
-    build:
-      context: C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2
-      dockerfile: Dockerfile
-    image: helloworld2
-version: '3.4'
