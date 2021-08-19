@@ -5,3 +5,4 @@
 /HelloWorld2/bin/Debug/net5.0
 /HelloWorld2/obj
 *.user
+/WebApp/obj
