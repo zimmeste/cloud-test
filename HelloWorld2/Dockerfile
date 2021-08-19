@@ -5,7 +5,7 @@ WORKDIR /app
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["HelloWorld2/HelloWorld2.csproj", "."]
+COPY ["HelloWorld2.csproj", "."]
 RUN dotnet restore "HelloWorld2.csproj"
 COPY . .
 WORKDIR "/src/"
