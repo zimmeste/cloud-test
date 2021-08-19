@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace HelloWorld
 {
@@ -6,7 +7,14 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 0;
+
+            while (true)
+            {
+                i++;
+                Console.WriteLine(i + ": Hello World!");
+                Thread.Sleep(1000);
+            }
         }
     }
 }
