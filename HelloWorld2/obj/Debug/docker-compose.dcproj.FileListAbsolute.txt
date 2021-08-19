@@ -1,0 +1,9 @@
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.deps.json
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.runtimeconfig.json
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.runtimeconfig.dev.json
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.dll
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2\obj\Debug\docker-compose.dcproj.CopyComplete

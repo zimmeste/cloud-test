@@ -1,0 +1,28 @@
+services:
+  helloworld2:
+    build:
+      context: C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2
+      dockerfile: Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: HelloWorld2
+      target: base
+    container_name: HelloWorld2
+    entrypoint: tail -f /dev/null
+    environment:
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: helloworld2:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/net5.0/HelloWorld2.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    tty: true
+    volumes:
+    - C:\Users\zimmeste\source\repos\zimmeste\cloud-test\HelloWorld2:/app:rw
+    - C:\Users\zimmeste\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/root/.nuget/fallbackpackages:ro
+    - C:\Users\zimmeste\.nuget\packages:/root/.nuget/packages:ro
+version: '3.4'

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZd9tDY7Cpx0QETnlJtpVUUNIH+p9D9HmkpVDt3CTvpyMUohtiwXc+ppNBWHWJXAvvi9cCnfZZisXI3CuYkSEQ==",
+  "dgSpecHash": "PqA/Z33n4XpQ2p+5dIXcuDxzWqTTXZnyPeX+wO3bjxyuxICNlKHyUYOSVIdNEKAYBP92RACL44chHoeQ2qhFKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zimmeste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\zimmeste\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"

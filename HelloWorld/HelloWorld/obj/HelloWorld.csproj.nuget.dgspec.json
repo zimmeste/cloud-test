@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\zimmeste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zimmeste\\source\\repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\zimmeste\\Source\\Repos\\zimmeste\\cloud-test\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
